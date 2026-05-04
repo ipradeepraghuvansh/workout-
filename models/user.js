@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My First Page</title>
+    <title></title>
 </head>
 <body>
     <h1>Welcome to My Website</h1>
-    <p>This is a simple paragraph of text.</p>
+    <p>user interface</p>
 </body>
 </html>
